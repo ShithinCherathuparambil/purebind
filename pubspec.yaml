@@ -1,0 +1,28 @@
+name: purebind
+description: "A next-generation, ultra-lightweight, fine-grained reactive state management framework for Flutter featuring type-safe signals, computed state, and undo/redo history."
+version: 0.0.1
+homepage: https://github.com/ShithinCherathuparambil/purebind
+repository: https://github.com/ShithinCherathuparambil/purebind
+issue_tracker: https://github.com/ShithinCherathuparambil/purebind/issues
+
+topics:
+  - state-management
+  - reactivity
+  - signals
+  - flutter
+  - clean-architecture
+
+environment:
+  sdk: ^3.12.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
